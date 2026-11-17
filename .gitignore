@@ -1,0 +1,22 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# virtual environments
+.venv/
+.myvenv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+Thumbs.db
+
+# local data
+data/documents/*
+data/vector_store/*
+!data/documents/.gitkeep
+!data/vector_store/.gitkeep

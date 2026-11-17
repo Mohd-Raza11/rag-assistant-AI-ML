@@ -1,0 +1,12 @@
+streamlit>=1.36
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers   # also installs torch + transformers (used by the "transformers" backend)
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+requests
+python-dotenv
