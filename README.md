@@ -4,7 +4,7 @@ A study chatbot that answers questions **only from your own learning materials**
 
 It uses **Retrieval-Augmented Generation (RAG)**: your documents are split into chunks, the most relevant chunks are found for each question, and a free large language model (via the Groq API) writes the answer from those chunks.
 
-Add a screenshot here: ![App screenshot](docs/screenshot.png)
+![App screenshot](docs/screenshot.png)
 
 ## Features
 
