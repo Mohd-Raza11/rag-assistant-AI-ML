@@ -1,4 +1,5 @@
 """Streamlit UI for the AI & Machine Learning Learning Assistant (RAG + free LLM)."""
+
 from dataclasses import asdict
 from pathlib import Path
 
